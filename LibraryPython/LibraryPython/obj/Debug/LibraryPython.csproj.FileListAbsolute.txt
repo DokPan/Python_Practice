@@ -1,0 +1,6 @@
+C:\Temp\!_ispp3445\LibraryPython\LibraryPython\bin\Debug\LibraryPython.dll
+C:\Temp\!_ispp3445\LibraryPython\LibraryPython\bin\Debug\LibraryPython.pdb
+C:\Temp\!_ispp3445\LibraryPython\LibraryPython\obj\Debug\LibraryPython.csproj.AssemblyReference.cache
+C:\Temp\!_ispp3445\LibraryPython\LibraryPython\obj\Debug\LibraryPython.csproj.CoreCompileInputs.cache
+C:\Temp\!_ispp3445\LibraryPython\LibraryPython\obj\Debug\LibraryPython.dll
+C:\Temp\!_ispp3445\LibraryPython\LibraryPython\obj\Debug\LibraryPython.pdb
